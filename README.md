@@ -1,2 +1,2 @@
 # if-lagom-microservice-kubernetes
-Projet Microservice avec le framework Lagorn de Lightbend et Java 8 
+Projet Microservice avec le framework Lagom de Lightbend et Java 8 
